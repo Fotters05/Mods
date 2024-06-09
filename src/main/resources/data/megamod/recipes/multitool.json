@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AP ",
+    "MHL",
+    "   "
+  ],
+  "key": {
+    "A": {
+      "item": "megamod:amber_axe"
+    },
+    "P": {
+      "item": "megamod:amber_pickaxe"
+    },
+    "M": {
+      "item": "megamod:amber_sword"
+    },
+    "H": {
+      "item": "megamod:amber_hoe"
+    },
+    "L": {
+      "item": "megamod:amber_shovel"
+    }
+  },
+  "result": {
+    "item": "megamod:multitool",
+    "count": 1
+  }
+}

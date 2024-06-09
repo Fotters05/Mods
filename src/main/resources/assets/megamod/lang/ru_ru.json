@@ -1,0 +1,18 @@
+{
+  "item.megamod.amber": "Янтарь",
+  "item.megamod.amber_raw": "Необработанный янтарь",
+  "itemGroup.Mpt tab": "МПТ мод",
+  "block.megamod.amber_block": "Янтарный блок",
+  "block.megamod.amber_ore": "Янтарная руда",
+  "block.megamod.deepslate_amber_ore": "Янтарный необработанный камень",
+  "item.megamod.amber_boots": "Янтарные ботинки",
+  "item.megamod.amber_leggings": "Янтарные поножи",
+  "item.megamod.amber_helmet": "Янтарный шлем",
+  "item.megamod.amber_chestplate": "Янтарный нагрудник",
+  "item.megamod.amber_hoe": "Янтарная мотыга",
+  "item.megamod.amber_sword": "Янтарный меч",
+  "item.megamod.amber_shovel": "Янтарная лопата",
+  "item.megamod.amber_pickaxe": "Янтарная кирка",
+  "item.megamod.amber_axe": "Янтарный топор",
+  "item.megamod.multitool": "Мульти-инструмент"
+}
